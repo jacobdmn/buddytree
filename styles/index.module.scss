@@ -1,0 +1,36 @@
+.homepage {
+    * {
+        font-family: 'Dosis', sans-serif !important;
+        letter-spacing: 1px !important;
+    }
+
+    img {
+        background:none;
+    }
+
+    button,
+    a {
+        display: inline-block !important;
+        transition: all 150ms ease-in !important;
+    }
+
+    button:hover,
+    a:hover {
+        transform: scale(1.05);
+    }
+}
+
+ .scrolltype::-webkit-scrollbar {
+     background: #e6e6e6;
+     height: 5px;
+     border-radius: 1rem;
+ }
+
+ .scrolltype::-webkit-scrollbar-thumb {
+     background: #10537d;
+     /* outline: 1px solid slategrey; */
+     border-radius: 1rem;
+     width: 1rem;
+ }
+
+ 

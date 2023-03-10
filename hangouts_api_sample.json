@@ -1,0 +1,98 @@
+[
+  {
+    "announcedGlobally": false,
+    "announcedLocally": false,
+    "end": "2022-03-27T00:00:00+00:00",
+    "events": [
+      {
+        "allowGuests": 0,
+        "announcedGlobally": false,
+        "announcedLocally": false,
+        "attended": [],
+        "attending": [
+          {
+            "created": "2021-07-24T01:29:08.888388+00:00",
+            "emailNotifications": true,
+            "emailNotificationsDaily": true,
+            "emailNotificationsWeekly": false,
+            "firstName": "Scott",
+            "isHost": false,
+            "lastName": "Cooper",
+            "locationId": 10417,
+            "photo": {
+              "uri": "https://s3.us-east-2.amazonaws.com/buddytree-image-store/profile/HfEcRcqj8T.webp"
+            },
+            "privacyLevel": 0,
+            "reminderEmailNotifications": true,
+            "roleId": 4,
+            "slug": "HfEcRcqj8T",
+            "status": 1,
+            "timezone": null,
+            "trustPoints": 94
+          }
+        ],
+        "created": "2022-03-18T19:06:24.202060+00:00",
+        "description": "Here are the videos and di….",
+        "directions": null,
+        "end": "2022-03-27T00:00:00+00:00",
+        "eventFee": false,
+        "eventFeeAmount": 0.0,
+        "eventFeeCurrency": null,
+        "eventFeeMethod": 0,
+        "eventFeeRefundPolicy": null,
+        "full": false,
+        "groupId": 38,
+        "id": 541,
+        "locationBasic": null,
+        "locationId": 10417,
+        "maxAttendees": 7,
+        "online": true,
+        "onlineLink": "https://buddytree.daily.co/K40EGlow2EKkIujWVOsb",
+        "onlineLinkCustom": null,
+        "onlineLinkHost": "https://buddytree.daily.co/K40EGlow2EKkIujWVOsb",
+        "photo": {
+          "created": "2021-04-29T00:50:54.899459+00:00",
+          "filename": "38.jpg",
+          "id": 99,
+          "mimeType": "image/jpeg",
+          "uri": "https://bt-topic.s3.us-east-2.amazonaws.com/topic-images/38.jpg"
+        },
+        "photoId": 99,
+        "question": null,
+        "repeat": 0,
+        "repeatDay": 0,
+        "repeatEnd": null,
+        "rsvpEnd": null,
+        "rsvpStart": null,
+        "slug": "EZ7VdTWS9o",
+        "start": "2022-03-26T23:00:00+00:00",
+        "status": 1,
+        "title": "Borders & Nations",
+        "typeId": 1,
+        "venueName": null,
+        "waiting": []
+      }
+    ],
+    "groupId": 38,
+    "id": 158,
+    "isAttending": false,
+    "locationId": 10417,
+    "onWaitlist": false,
+    "online": true,
+    "photo": {
+      "created": "2021-04-29T00:50:54.899459+00:00",
+      "filename": "38.jpg",
+      "id": 99,
+      "mimeType": "image/jpeg",
+      "uri": "https://bt-topic.s3.us-east-2.amazonaws.com/topic-images/38.jpg"
+    },
+    "photoId": 99,
+    "slug": "HfEcRcqj8T",
+    "start": "2022-03-26T23:00:00+00:00",
+    "status": 1,
+    "studentsOnly": false,
+    "title": "Borders & Nations",
+    "topicSlug": "borders-nations",
+    "typeId": 1
+  }
+]

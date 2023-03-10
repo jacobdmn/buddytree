@@ -14,7 +14,7 @@ export const steps: Array<Card> = [
   {
     id: 1,
     title: 'Create your free account',
-    desc: 'Members show their faces in their profile picture.No creeps. Join your first live hangout for free.',
+    desc: 'Members show their faces in their profile picture. No creeps. Join your first live hangout for free.',
     imageUrl: first,
   },
   {
